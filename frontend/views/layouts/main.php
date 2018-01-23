@@ -332,7 +332,7 @@ ltAppAsset::register($this)
 
 Modal::end();
 ?>
-?>
+
 <?php $this->endBody() ?>
 </body>
 </html>

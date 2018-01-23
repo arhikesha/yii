@@ -2,7 +2,7 @@
 use yii\helpers\Html;
 use yii\helpers\Url;
 ?>
-
+<p>GIT change</p>
 <section>
     <div class="container">
         <div class="row">

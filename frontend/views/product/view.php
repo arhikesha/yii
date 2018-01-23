@@ -2,11 +2,9 @@
 use yii\helpers\Html;
 use yii\helpers\Url;
 ?>
-<<<<<<< HEAD
+
 <p>GIT CHANGE Master </p>
-=======
-<p>GIT CHANGE Kesha </p>
->>>>>>> 1f415c1085a5d83c8be4043ce47eb0da9e31b0ec
+
 <section>
     <div class="container">
         <div class="row">
